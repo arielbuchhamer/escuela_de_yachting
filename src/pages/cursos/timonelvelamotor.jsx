@@ -68,6 +68,9 @@ export default function Timonelvelamotor() {
                   <div className="grid gap-4">
                     <h1 className="text-3xl md:text-5xl font-bold text-gray-600 body-font">Curso de Timonel Vela y Motor</h1>
                     <p className="text-lg md:text-xl text-gray-500 ">
+                      Inicio: 23/05/2025
+                    </p>
+                    <p className="text-lg md:text-xl text-gray-500 ">
                     El Curso de TIMONEL de yates a vela y motor es el ideal para quien desea adquirir o complementar conocimientos náuticos que le permitan obtener una habilitación de gran amplitud, con la posibilidad de despachar embarcaciones deportivas en aguas nacionales e internacionales (Costas y archipiélagos de América, Europa y Polinesia).
                     </p>
                   </div>
@@ -157,11 +160,12 @@ export default function Timonelvelamotor() {
                                         <p className="font-medium text-gray-200 uppercase">Socios</p>
 
                                         <h2 className="text-3xl font-bold text-white uppercase ">
-                                            $375.000
+                                            $420.000
                                         </h2>
-                                        <p className="text-sm text-gray-200">(3 cuotas de $125.000) </p>
+                                        <p className="text-sm text-gray-200">(3 cuotas de $140.000) </p>
                                         <p className="text-white">+</p>
-                                        <p className="font-medium text-gray-200">Inscripcion: $150.000 </p>
+                                        <p className="font-medium text-gray-200">Inscripcion: $175.000 </p>
+                                        <p className="font-medium text-gray-200">total: $595.000 </p>
                                         <Link to="/formulario">
                                           <button className="w-full px-4 py-2 mt-10 tracking-wide text-blue-500 capitalize transition-colors duration-300 transform bg-white rounded-md hover:bg-gray-100 focus:outline-none focus:bg-gray-100 focus:ring focus:ring-gray-200 focus:ring-opacity-80">
                                               Inscribirse
@@ -172,20 +176,21 @@ export default function Timonelvelamotor() {
                                     </div>
 
                                     <div className="w-full p-8 space-y-4 text-center bg-azul-edit rounded-lg">
-                                        <p className="font-medium text-gray-200 uppercase">NO Socios</p>
+                                        <p className="font-medium text-gray-200 uppercase"> NO Socios</p>
 
                                         <h2 className="text-3xl font-bold text-white uppercase ">
-                                            $435.000
+                                            $480.000
                                         </h2>
-                                        <p className="text-sm text-gray-200">(3 cuotas de $145.000) </p>
+                                        <p className="text-sm text-gray-200">(3 cuotas de $160.000) </p>
                                         <p className="text-white">+</p>
-                                        <p className="font-medium text-gray-200">Inscripcion: $180.000 </p>
-
+                                        <p className="font-medium text-gray-200">Inscripcion:$220.000 </p>
+                                        <p className="font-medium text-gray-200">total: $700.000 </p>
                                         <Link to="/formulario">
                                           <button className="w-full px-4 py-2 mt-10 tracking-wide text-blue-500 capitalize transition-colors duration-300 transform bg-white rounded-md hover:bg-gray-100 focus:outline-none focus:bg-gray-100 focus:ring focus:ring-gray-200 focus:ring-opacity-80">
                                               Inscribirse
                                           </button>
                                         </Link>
+                                        
 
                                     </div>
                                 </div>
@@ -319,7 +324,7 @@ export default function Timonelvelamotor() {
                         <p className="text-gray-600 leading-relaxed">
                           El curso de Timonel vela y motor incluye:
                           <ul className="list-disc pl-6 space-y-2 mt-2">
-                            <li>Libro, material didáctico y seguro personal</li>
+                            <li>Material didáctico y seguro personal</li>
                             <li>Prácticas a bordo de veleros de la escuela</li>
                             <li>Toma de decisiones en situaciones de emergencia</li>
                           </ul>

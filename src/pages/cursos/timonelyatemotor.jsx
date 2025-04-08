@@ -68,6 +68,9 @@ export default function Timonelyatemotor() {
                   <div className="grid gap-4">
                     <h1 className="text-3xl md:text-5xl font-bold text-gray-600 body-font">Curso de Timonel Yate Motor</h1>
                     <p className="text-lg md:text-xl text-gray-500 ">
+                      Inicio: 23/05/2025
+                    </p>
+                    <p className="text-lg md:text-xl text-gray-500 ">
                       El Curso de TIMONEL de yates a motor es el ideal para quien desea adquirir o complementar conocimientos náuticos que le permitan obtener una habilitación de gran amplitud, con la posibilidad de despachar embarcaciones deportivas a motor sin limite de potencia y hasta 40 pies de eslora en aguas nacionales e internacionales (Costas y archipiélagos de América, Europa y Polinesia).
                     </p>
                   </div>
@@ -157,11 +160,12 @@ export default function Timonelyatemotor() {
                                         <p className="font-medium text-gray-200 uppercase">Socios</p>
 
                                         <h2 className="text-3xl font-bold text-white uppercase ">
-                                            $255.000
+                                            $210.000
                                         </h2>
-                                        <p className="text-sm text-gray-200">(3 cuotas de $85.000) </p>
+                                        <p className="text-sm text-gray-200">(3 cuotas de $70.000) </p>
                                         <p className="text-white">+</p>
-                                        <p className="font-medium text-gray-200">Inscripcion: $100.000 </p>
+                                        <p className="font-medium text-gray-200">Inscripcion: $130.000 </p>
+                                        <p className="font-medium text-gray-200">total: $340.000 </p>
                                         <Link to="/formulario">
                                           <button className="w-full px-4 py-2 mt-10 tracking-wide text-blue-500 capitalize transition-colors duration-300 transform bg-white rounded-md hover:bg-gray-100 focus:outline-none focus:bg-gray-100 focus:ring focus:ring-gray-200 focus:ring-opacity-80">
                                               Inscribirse
@@ -175,12 +179,12 @@ export default function Timonelyatemotor() {
                                         <p className="font-medium text-gray-200 uppercase">NO Socios</p>
 
                                         <h2 className="text-3xl font-bold text-white uppercase ">
-                                            $300.000
+                                            $240.000
                                         </h2>
-                                        <p className="text-sm text-gray-200">(3 cuotas de $100.000) </p>
+                                        <p className="text-sm text-gray-200">(3 cuotas de $80.000) </p>
                                         <p className="text-white">+</p>
-                                        <p className="font-medium text-gray-200">Inscripcion: $120.000 </p>
-
+                                        <p className="font-medium text-gray-200">Inscripcion: $160.000 </p>
+                                        <p className="font-medium text-gray-200">total: $400.000 </p>
                                         <Link to="/formulario">
                                           <button className="w-full px-4 py-2 mt-10 tracking-wide text-blue-500 capitalize transition-colors duration-300 transform bg-white rounded-md hover:bg-gray-100 focus:outline-none focus:bg-gray-100 focus:ring focus:ring-gray-200 focus:ring-opacity-80">
                                               Inscribirse
