@@ -6,7 +6,7 @@ const Footer = () => {
             
             <div className="bg-azul-edit mt-10">
                 <div className="max-w-screen-xl py-10 px-4 sm:px-6 text-white sm:flex justify-between mx-auto">
-                    <div className="p-5 sm:w-4/12">
+                    <div className="p-1 sm:w-4/12">
                         <img src="../assets/img/logo.png" alt="" />
                     </div>
 

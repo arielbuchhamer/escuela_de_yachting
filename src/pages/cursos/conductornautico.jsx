@@ -67,9 +67,10 @@ export default function Conductornautico() {
                 <div className="grid gap-8 md:gap-12">
                   <div className="grid gap-4">
                     <h1 className="text-3xl md:text-5xl font-bold text-gray-600 body-font">Curso de Conductor Nautico</h1>
-                    <p className="text-lg md:text-xl text-gray-500 ">
-                      Inicio: 02/07/2025
+                    <p className="text-xl md:text-2xl font-semibold text-azul-edit tracking-wide">
+                      Inicio: <span className="font-bold">27/07/2025</span>
                     </p>
+
                     <p className="text-lg md:text-xl text-gray-500 ">
                       El Curso de Conductor Náutico es el ideal para quien desea adquirir o complementar conocimientos náuticos que le permitan obtener una habilitación, con la posibilidad de despachar embarcaciones deportivas en aguas nacionales como ser Ríos, Mares y lagos.
                     </p>
@@ -160,11 +161,11 @@ export default function Conductornautico() {
                                         <p className="font-medium text-gray-200 uppercase">Socios</p>
 
                                         <h2 className="text-3xl font-bold text-white uppercase ">
-                                            $115.000
+                                            $125.000
                                         </h2>
                                         <p className="text-white">+</p>
-                                        <p className="font-medium text-gray-200">Inscripcion: $100.000 </p>
-                                        <p className="font-medium text-gray-200">total: $215.000 </p>
+                                        <p className="font-medium text-gray-200">Inscripcion: $115.000 </p>
+                                        <p className="font-medium text-gray-200">total: $240.000 </p>
                                         <Link to="/formulario">
                                           <button className="w-full px-4 py-2 mt-10 tracking-wide text-blue-500 capitalize transition-colors duration-300 transform bg-white rounded-md hover:bg-gray-100 focus:outline-none focus:bg-gray-100 focus:ring focus:ring-gray-200 focus:ring-opacity-80">
                                               Inscribirse
@@ -181,8 +182,8 @@ export default function Conductornautico() {
                                             $130.000
                                         </h2>
                                         <p className="text-white">+</p>
-                                        <p className="font-medium text-gray-200">Inscripcion: $120.000 </p>
-                                        <p className="font-medium text-gray-200">total: $250.000 </p>
+                                        <p className="font-medium text-gray-200">Inscripcion: $150.000 </p>
+                                        <p className="font-medium text-gray-200">total: $280.000 </p>
                                         <Link to="/formulario">
                                           <button className="w-full px-4 py-2 mt-10 tracking-wide text-blue-500 capitalize transition-colors duration-300 transform bg-white rounded-md hover:bg-gray-100 focus:outline-none focus:bg-gray-100 focus:ring focus:ring-gray-200 focus:ring-opacity-80">
                                               Inscribirse
