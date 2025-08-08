@@ -67,8 +67,8 @@ export default function Timonelvelamotor() {
                 <div className="grid gap-8 md:gap-12">
                   <div className="grid gap-4">
                     <h1 className="text-3xl md:text-5xl font-bold text-gray-600 body-font">Curso de Timonel Vela y Motor</h1>
-                    <p className="text-lg md:text-xl text-gray-500 ">
-                      Inicio: 23/05/2025
+                    <p className="text-xl md:text-2xl font-semibold text-azul-edit tracking-wide">
+                       Inicio: <span className="font-bold">05/09/2025</span>
                     </p>
                     <p className="text-lg md:text-xl text-gray-500 ">
                     El Curso de TIMONEL de yates a vela y motor es el ideal para quien desea adquirir o complementar conocimientos náuticos que le permitan obtener una habilitación de gran amplitud, con la posibilidad de despachar embarcaciones deportivas en aguas nacionales e internacionales (Costas y archipiélagos de América, Europa y Polinesia).
