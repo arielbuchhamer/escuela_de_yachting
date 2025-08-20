@@ -67,11 +67,11 @@ export default function Timonelyatemotor() {
                 <div className="grid gap-8 md:gap-12">
                   <div className="grid gap-4">
                     <h1 className="text-3xl md:text-5xl font-bold text-gray-600 body-font">Curso de Timonel Yate Motor</h1>
-                    <p className="text-lg md:text-xl text-gray-500 ">
-                      Inicio: 23/05/2025
+                    <p className="text-xl md:text-2xl font-semibold text-azul-edit tracking-wide">
+                       Inicio: <span className="font-bold">05/09/2025</span>
                     </p>
                     <p className="text-lg md:text-xl text-gray-500 ">
-                      El Curso de TIMONEL de yates a motor es el ideal para quien desea adquirir o complementar conocimientos náuticos que le permitan obtener una habilitación de gran amplitud, con la posibilidad de despachar embarcaciones deportivas a motor sin limite de potencia y hasta 40 pies de eslora en aguas nacionales e internacionales (Costas y archipiélagos de América, Europa y Polinesia).
+                      El Curso de TIMONEL de yates a motor es el ideal para quien desea adquirir o complementar conocimientos náuticos que le permitan obtener una habilitación de gran amplitud, con la posibilidad de despachar embarcaciones deportivas a motor sin limite de potencia y hasta 20 mts de eslora en aguas nacionales e internacionales (Costas y archipiélagos de América, Europa y Polinesia).
                     </p>
                   </div>
                   <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
@@ -217,12 +217,7 @@ export default function Timonelyatemotor() {
                             </p>
                           </div>
                         </div>
-                        <div className="grid gap-2">
-                          <h2 className="text-2xl md:text-3xl font-bold">Duración</h2>
-                          <p className="text-gray-500 ">
-                          5 semanas
-                          </p>
-                        </div>
+
                         <div className="grid gap-2">
                           <h2 className="text-2xl md:text-3xl font-bold">Modalidad</h2>
                           
