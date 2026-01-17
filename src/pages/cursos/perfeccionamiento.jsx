@@ -67,6 +67,9 @@ export default function Perfeccionamiento() {
                 <div className="grid gap-8 md:gap-12">
                   <div className="grid gap-4">
                     <h1 className="text-3xl md:text-5xl font-bold text-gray-600 body-font">Perfeccionamiento para Timoneles y Patrones</h1>
+                    <p className="text-xl md:text-2xl font-semibold text-azul-edit tracking-wide">
+                      Inicio: <span className="font-bold">14/02/2026</span>
+                    </p>
                     <p className="text-lg md:text-xl text-gray-500 ">
                       Este curso te capacitará en las habilidades esenciales para regatas, maniobras en puertos, mantenimiento de embarcaciones y navegación segura en todas las condiciones.
                     </p>
@@ -157,11 +160,12 @@ export default function Perfeccionamiento() {
                                         <p className="font-medium text-gray-200 uppercase">Socios</p>
 
                                         <h2 className="text-3xl font-bold text-white uppercase ">
-                                            $255.000
+                                            $400.000
                                         </h2>
-                                        <p className="text-sm text-gray-200">(3 cuotas de $85.000) </p>
-                                        <p className="text-white">+</p>
-                                        <p className="font-medium text-gray-200">Inscripcion: $60.000 </p>
+                                        <p></p>
+                                        <br />
+                                        <br />  
+                                        <br />
                                         <Link to="/formulario">
                                           <button className="w-full px-4 py-2 mt-10 tracking-wide text-blue-500 capitalize transition-colors duration-300 transform bg-white rounded-md hover:bg-gray-100 focus:outline-none focus:bg-gray-100 focus:ring focus:ring-gray-200 focus:ring-opacity-80">
                                               Inscribirse
@@ -175,11 +179,11 @@ export default function Perfeccionamiento() {
                                         <p className="font-medium text-gray-200 uppercase">NO Socios</p>
 
                                         <h2 className="text-3xl font-bold text-white uppercase ">
-                                            $300.000
+                                            $460.000
                                         </h2>
-                                        <p className="text-sm text-gray-200">(3 cuotas de $100.000) </p>
-                                        <p className="text-white">+</p>
-                                        <p className="font-medium text-gray-200">Inscripcion: $70.000 </p>
+                                        <br />
+                                        <br />
+                                        <br />
 
                                         <Link to="/formulario">
                                           <button className="w-full px-4 py-2 mt-10 tracking-wide text-blue-500 capitalize transition-colors duration-300 transform bg-white rounded-md hover:bg-gray-100 focus:outline-none focus:bg-gray-100 focus:ring focus:ring-gray-200 focus:ring-opacity-80">

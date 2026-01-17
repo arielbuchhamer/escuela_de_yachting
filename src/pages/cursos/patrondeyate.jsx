@@ -67,8 +67,8 @@ export default function Patrondeyate() {
                 <div className="grid gap-8 md:gap-12">
                   <div className="grid gap-4">
                     <h1 className="text-3xl md:text-5xl font-bold text-gray-600 body-font">Curso de Patron de Yate</h1>
-                    <p className="text-lg md:text-xl text-gray-500 ">
-                      Inicio: 07/06/2025
+                    <p className="text-xl md:text-2xl font-semibold text-azul-edit tracking-wide">
+                      Inicio: <span className="font-bold">15/04/2026</span>
                     </p>
                     <p className="text-lg md:text-xl text-gray-500 ">
                       Si ya sos timonel y querés avanzar, este es tu próximo paso.
@@ -161,12 +161,11 @@ export default function Patrondeyate() {
                                         <p className="font-medium text-gray-200 uppercase">Socios</p>
 
                                         <h2 className="text-3xl font-bold text-white uppercase ">
-                                            $240.000
+                                            $637.500
                                         </h2>
-                                        <p className="text-sm text-gray-200">(3 cuotas de $80.000) </p>
                                         <p className="text-white">+</p>
-                                        <p className="font-medium text-gray-200">Inscripcion: $100.000 </p>
-                                        <p className="font-medium text-gray-200">total: $340.000 </p>
+                                        <p className="font-medium text-gray-200">Inscripcion: $237.500 </p>
+                                        <p className="font-medium text-gray-200">total: $875.000 </p>
 
                                         <Link to="/formulario">
                                           <button className="w-full px-4 py-2 mt-10 tracking-wide text-blue-500 capitalize transition-colors duration-300 transform bg-white rounded-md hover:bg-gray-100 focus:outline-none focus:bg-gray-100 focus:ring focus:ring-gray-200 focus:ring-opacity-80">
@@ -181,12 +180,12 @@ export default function Patrondeyate() {
                                         <p className="font-medium text-gray-200 uppercase">NO Socios</p>
 
                                         <h2 className="text-3xl font-bold text-white uppercase ">
-                                            $255.000
+                                            $750.000
                                         </h2>
-                                        <p className="text-sm text-gray-200">(3 cuotas de $85.000) </p>
+                                        
                                         <p className="text-white">+</p>
-                                        <p className="font-medium text-gray-200">Inscripcion: $145.000 </p>
-                                        <p className="font-medium text-gray-200">total: $400.000 </p>
+                                        <p className="font-medium text-gray-200">Inscripcion: $250.000 </p>
+                                        <p className="font-medium text-gray-200">total: $1.000.000 </p>
                                         <Link to="/formulario">
                                           <button className="w-full px-4 py-2 mt-10 tracking-wide text-blue-500 capitalize transition-colors duration-300 transform bg-white rounded-md hover:bg-gray-100 focus:outline-none focus:bg-gray-100 focus:ring focus:ring-gray-200 focus:ring-opacity-80">
                                               Inscribirse
