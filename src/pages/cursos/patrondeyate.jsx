@@ -157,42 +157,43 @@ export default function Patrondeyate() {
                           <div>
                             <div className="container px-6  mx-auto">
                                 <div className="grid grid-cols-1 gap-8 mt-7 xl:mt-12 xl:gap-12 md:grid-cols-2 ">
-                                    <div className="w-full p-8 space-y-4 text-center bg-azul-edit rounded-lg">
-                                        <p className="font-medium text-gray-200 uppercase">Socios</p>
+                                  <div className="w-full p-8 space-y-4 text-center bg-azul-edit rounded-lg">
+                                    <p className="font-medium text-gray-200 uppercase">Socios</p>
 
-                                        <h2 className="text-3xl font-bold text-white uppercase ">
-                                            $637.500
-                                        </h2>
-                                        <p className="text-white">+</p>
-                                        <p className="font-medium text-gray-200">Inscripcion: $237.500 </p>
-                                        <p className="font-medium text-gray-200">total: $875.000 </p>
+                                    <h2 className="text-3xl font-bold text-white uppercase ">
+                                      $637.500
+                                    </h2>
 
-                                        <Link to="/formulario">
-                                          <button className="w-full px-4 py-2 mt-10 tracking-wide text-blue-500 capitalize transition-colors duration-300 transform bg-white rounded-md hover:bg-gray-100 focus:outline-none focus:bg-gray-100 focus:ring focus:ring-gray-200 focus:ring-opacity-80">
-                                              Inscribirse
-                                          </button>
-                                        </Link>
-                                        
+                                    <p className="text-white">------------</p>
+                                    <p className="font-medium text-gray-200">Inscripcion: $237.500 </p>
+                                    <p className="text-white">+</p>
+                                    <p className="font-medium text-gray-200">Cuotas: 4 de $100.000 </p>
 
-                                    </div>
+                                    <Link to="/formulario">
+                                      <button className="w-full px-4 py-2 mt-10 tracking-wide text-blue-500 capitalize transition-colors duration-300 transform bg-white rounded-md hover:bg-gray-100 focus:outline-none focus:bg-gray-100 focus:ring focus:ring-gray-200 focus:ring-opacity-80">
+                                        Inscribirse
+                                      </button>
+                                    </Link>
+                                  </div>
 
-                                    <div className="w-full p-8 space-y-4 text-center bg-azul-edit rounded-lg">
-                                        <p className="font-medium text-gray-200 uppercase">NO Socios</p>
+                                  <div className="w-full p-8 space-y-4 text-center bg-azul-edit rounded-lg">
+                                    <p className="font-medium text-gray-200 uppercase">NO Socios</p>
 
-                                        <h2 className="text-3xl font-bold text-white uppercase ">
-                                            $750.000
-                                        </h2>
-                                        
-                                        <p className="text-white">+</p>
-                                        <p className="font-medium text-gray-200">Inscripcion: $250.000 </p>
-                                        <p className="font-medium text-gray-200">total: $1.000.000 </p>
-                                        <Link to="/formulario">
-                                          <button className="w-full px-4 py-2 mt-10 tracking-wide text-blue-500 capitalize transition-colors duration-300 transform bg-white rounded-md hover:bg-gray-100 focus:outline-none focus:bg-gray-100 focus:ring focus:ring-gray-200 focus:ring-opacity-80">
-                                              Inscribirse
-                                          </button>
-                                        </Link>
+                                    <h2 className="text-3xl font-bold text-white uppercase ">
+                                      $750.000
+                                    </h2>
 
-                                    </div>
+                                    <p className="text-white">------------</p>
+                                    <p className="font-medium text-gray-200">Inscripcion: $250.000 </p>
+                                    <p className="text-white">+</p>
+                                    <p className="font-medium text-gray-200">Cuotas: 4 de $125.000 </p>
+
+                                    <Link to="/formulario">
+                                      <button className="w-full px-4 py-2 mt-10 tracking-wide text-blue-500 capitalize transition-colors duration-300 transform bg-white rounded-md hover:bg-gray-100 focus:outline-none focus:bg-gray-100 focus:ring focus:ring-gray-200 focus:ring-opacity-80">
+                                        Inscribirse
+                                      </button>
+                                    </Link>
+                                  </div>
                                 </div>
                             </div>
                         </div>
