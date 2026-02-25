@@ -249,7 +249,7 @@ export default function Timonelvelamotor() {
                         </div>
                     </div>
                 </div>
-                <div className="grid gap-4">
+                 <div className="grid gap-4">
                   <h2 className="text-2xl md:text-3xl font-bold">Nuestros Instructores</h2>
                   <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
                     <div className="grid gap-4">
@@ -261,12 +261,12 @@ export default function Timonelvelamotor() {
                             className="rounded-full w-20 h-20 object-cover"
                         />
                       <div className="grid gap-1">
-                          <h3 className="font-semibold">Romero Argerich Bautista</h3>
+                          <h3 className="font-semibold">Bautista Romero Argerich</h3>
                           <li className="text-gray-500 ">
                           Patron de Yate a Vela o Motor 
                           </li>
                           <li className="text-gray-500 ">
-                          Profesor Clases Prácticas / Teóricas
+                          Navegante oceanico
                           </li>
                       </div>
                     </div>
@@ -279,12 +279,12 @@ export default function Timonelvelamotor() {
                           className="rounded-full w-20 h-20 object-cover"
                       />
                       <div className="grid gap-1">
-                          <h3 className="font-semibold">Romero Miguel Angel</h3>
+                          <h3 className="font-semibold">Miguel Angel Romero </h3>
                           <li className="text-gray-500 ">
                           PILOTO de YATES 
                           </li>
                           <li className="text-gray-500 ">
-                          Profesor Clases Prácticas / Teóricas
+                          Navegante oceanico
                           </li>
                       </div>
                     </div>
@@ -297,12 +297,12 @@ export default function Timonelvelamotor() {
                           className="rounded-full w-20 h-20 object-cover"
                       />
                       <div className="grid gap-1">
-                          <h3 className="font-semibold">Caruso Martin</h3>
+                          <h3 className="font-semibold">Martin Caruso </h3>
                           <li className="text-gray-500 ">
                           Patron de Yate a Vela o Motor 
                           </li>
                           <li className="text-gray-500 ">
-                          Profesor Clases Prácticas / Teóricas
+                          Navegante oceanico
                           </li>
                       </div>
                     </div>

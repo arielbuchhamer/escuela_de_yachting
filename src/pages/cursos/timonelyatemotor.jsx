@@ -139,14 +139,6 @@ export default function Timonelyatemotor() {
                               <span className="mr-3">&#9875;</span>
                               Pago total de contado recibe un 10% de descuento
                               </li>
-                              <li>
-                              <span className="mr-3">&#9875;</span>
-                              Los No-Socios abonaran al Club Náutico Córdoba cuotas como Socios Pasantes durante los meses de asistencia presencial por el uso de las instalaciones durante las clases prácticas.
-                              </li>
-                              <li>
-                              <span className="mr-3">&#9875;</span>
-                              La cuota cursante del Club está sujeta a modificación sin previo aviso
-                              </li>
                           </ul>
                         </div>
                     </div>
@@ -160,12 +152,13 @@ export default function Timonelyatemotor() {
                                         <p className="font-medium text-gray-200 uppercase">Socios</p>
 
                                         <h2 className="text-3xl font-bold text-white uppercase ">
-                                            $210.000
+                                            $400.000
                                         </h2>
-                                        <p className="text-sm text-gray-200">(3 cuotas de $77.000) </p>
+                                        <p className="text-white">------------</p>
+                                        <p className="font-medium text-gray-200">Inscripcion: $130.000 </p>
                                         <p className="text-white">+</p>
-                                        <p className="font-medium text-gray-200">Inscripcion: $143.000 </p>
-                                        <p className="font-medium text-gray-200">total: $374.000 </p>
+                                        <p className="font-medium text-gray-200">Cuotas: 3 de $90.000 </p>
+
                                         <Link to="/formulario">
                                           <button className="w-full px-4 py-2 mt-10 tracking-wide text-blue-500 capitalize transition-colors duration-300 transform bg-white rounded-md hover:bg-gray-100 focus:outline-none focus:bg-gray-100 focus:ring focus:ring-gray-200 focus:ring-opacity-80">
                                               Inscribirse
@@ -179,12 +172,13 @@ export default function Timonelyatemotor() {
                                         <p className="font-medium text-gray-200 uppercase">NO Socios</p>
 
                                         <h2 className="text-3xl font-bold text-white uppercase ">
-                                            $240.000
+                                            $465.000
                                         </h2>
-                                        <p className="text-sm text-gray-200">(3 cuotas de $88.000) </p>
+                                        <p className="text-white">------------</p>
+                                        <p className="font-medium text-gray-200">Inscripcion: $165.000 </p>
                                         <p className="text-white">+</p>
-                                        <p className="font-medium text-gray-200">Inscripcion: $176.000 </p>
-                                        <p className="font-medium text-gray-200">total: $440.000 </p>
+                                        <p className="font-medium text-gray-200">Cuotas: 3 de $100.000 </p>
+
                                         <Link to="/formulario">
                                           <button className="w-full px-4 py-2 mt-10 tracking-wide text-blue-500 capitalize transition-colors duration-300 transform bg-white rounded-md hover:bg-gray-100 focus:outline-none focus:bg-gray-100 focus:ring focus:ring-gray-200 focus:ring-opacity-80">
                                               Inscribirse
@@ -239,7 +233,7 @@ export default function Timonelyatemotor() {
                         </div>
                     </div>
                 </div>
-                <div className="grid gap-4">
+                 <div className="grid gap-4">
                   <h2 className="text-2xl md:text-3xl font-bold">Nuestros Instructores</h2>
                   <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
                     <div className="grid gap-4">
@@ -251,12 +245,12 @@ export default function Timonelyatemotor() {
                             className="rounded-full w-20 h-20 object-cover"
                         />
                       <div className="grid gap-1">
-                          <h3 className="font-semibold">Romero Argerich Bautista</h3>
+                          <h3 className="font-semibold">Bautista Romero Argerich</h3>
                           <li className="text-gray-500 ">
                           Patron de Yate a Vela o Motor 
                           </li>
                           <li className="text-gray-500 ">
-                          Profesor Clases Prácticas / Teóricas
+                          Navegante oceanico
                           </li>
                       </div>
                     </div>
@@ -269,12 +263,12 @@ export default function Timonelyatemotor() {
                           className="rounded-full w-20 h-20 object-cover"
                       />
                       <div className="grid gap-1">
-                          <h3 className="font-semibold">Romero Miguel Angel</h3>
+                          <h3 className="font-semibold">Miguel Angel Romero </h3>
                           <li className="text-gray-500 ">
                           PILOTO de YATES 
                           </li>
                           <li className="text-gray-500 ">
-                          Profesor Clases Prácticas / Teóricas
+                          Navegante oceanico
                           </li>
                       </div>
                     </div>
@@ -287,12 +281,12 @@ export default function Timonelyatemotor() {
                           className="rounded-full w-20 h-20 object-cover"
                       />
                       <div className="grid gap-1">
-                          <h3 className="font-semibold">Caruso Martin</h3>
+                          <h3 className="font-semibold">Martin Caruso </h3>
                           <li className="text-gray-500 ">
                           Patron de Yate a Vela o Motor 
                           </li>
                           <li className="text-gray-500 ">
-                          Profesor Clases Prácticas / Teóricas
+                          Navegante oceanico
                           </li>
                       </div>
                     </div>

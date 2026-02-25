@@ -254,12 +254,12 @@ export default function Conductornautico() {
                             className="rounded-full w-20 h-20 object-cover"
                         />
                       <div className="grid gap-1">
-                          <h3 className="font-semibold">Romero Argerich Bautista</h3>
+                          <h3 className="font-semibold">Bautista Romero Argerich</h3>
                           <li className="text-gray-500 ">
                           Patron de Yate a Vela o Motor 
                           </li>
                           <li className="text-gray-500 ">
-                          Profesor Clases Prácticas / Teóricas
+                          Navegante oceanico
                           </li>
                       </div>
                     </div>
@@ -272,12 +272,12 @@ export default function Conductornautico() {
                           className="rounded-full w-20 h-20 object-cover"
                       />
                       <div className="grid gap-1">
-                          <h3 className="font-semibold">Romero Miguel Angel</h3>
+                          <h3 className="font-semibold">Miguel Angel Romero </h3>
                           <li className="text-gray-500 ">
                           PILOTO de YATES 
                           </li>
                           <li className="text-gray-500 ">
-                          Profesor Clases Prácticas / Teóricas
+                          Navegante oceanico
                           </li>
                       </div>
                     </div>
@@ -290,12 +290,12 @@ export default function Conductornautico() {
                           className="rounded-full w-20 h-20 object-cover"
                       />
                       <div className="grid gap-1">
-                          <h3 className="font-semibold">Caruso Martin</h3>
+                          <h3 className="font-semibold">Martin Caruso </h3>
                           <li className="text-gray-500 ">
                           Patron de Yate a Vela o Motor 
                           </li>
                           <li className="text-gray-500 ">
-                          Profesor Clases Prácticas / Teóricas
+                          Navegante oceanico
                           </li>
                       </div>
                     </div>

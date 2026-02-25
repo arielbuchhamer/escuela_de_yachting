@@ -102,8 +102,9 @@ export default function Perfeccionamiento() {
                         <div className="grid gap-2">
                           <h2 className="text-2xl md:text-3xl font-bold">Detalles del Curso</h2>
                           <p className="text-gray-700 ">
-                            El Curso es el ideal para aquellos que desean iniciarse o mejorar habilidades para el mundo de las regatas, puesta a punto, preparación de maniobras (puntuales para cada embarcación) trimados de aparejos y velas, etc. Maniobra de Ingreso y salida de Puertos ya sea a vela o a motor, fondear con Ancla, amarrar al Borneo, Muelle o Marina. Obtener mayores conocimientos sobre cuidados y mantenimiento del barco y sus accesorios. Preparación de la embarcación para navegar con mal tiempo, técnicas para Capear o correr temporales, Ancla de Mar Y Meteorología Práctica                          
-                          </p>
+                          Este Curso es el ideal para aquellos que desean  mejorar habilidades y adquirir mayor seguridad en las maniobras de la navegación a vela.
+                          Puesta a punto, preparación de maniobras, trimados de aparejos y velas. 
+                          Maniobra de Ingreso y salida de Puertos ya sea a vela o a motor, fondear con Ancla, amarrar al Borneo, Muelle o Marina. Obtener mayores conocimientos sobre cuidados y mantenimiento del barco y sus accesorios. Preparación de la embarcación para navegar con mal tiempo, técnicas para Capear o correr temporales, Ancla de Mar Y Meteorología Práctica                          </p>
                         </div>
                         <hr />
                         <div className="grid gap-2">
@@ -111,7 +112,7 @@ export default function Perfeccionamiento() {
                           <ul className="space-y-2 text-gray-700 ">
                               <li>
                               <CheckIcon className="mr-2 inline-block h-4 w-4 text-primary" />
-                              Dominar el uso de compás de gobierno, GPS y otros instrumentos de navegación
+                              Dominar el uso de instrumentos de navegación
                               </li>
                               <li>
                               <CheckIcon className="mr-2 inline-block h-4 w-4 text-primary" />
@@ -237,7 +238,7 @@ export default function Perfeccionamiento() {
                         </div>
                     </div>
                 </div>
-                <div className="grid gap-4">
+                 <div className="grid gap-4">
                   <h2 className="text-2xl md:text-3xl font-bold">Nuestros Instructores</h2>
                   <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
                     <div className="grid gap-4">
@@ -249,12 +250,12 @@ export default function Perfeccionamiento() {
                             className="rounded-full w-20 h-20 object-cover"
                         />
                       <div className="grid gap-1">
-                          <h3 className="font-semibold">Romero Argerich Bautista</h3>
+                          <h3 className="font-semibold">Bautista Romero Argerich</h3>
                           <li className="text-gray-500 ">
                           Patron de Yate a Vela o Motor 
                           </li>
                           <li className="text-gray-500 ">
-                          Profesor Clases Prácticas / Teóricas
+                          Navegante oceanico
                           </li>
                       </div>
                     </div>
@@ -267,12 +268,12 @@ export default function Perfeccionamiento() {
                           className="rounded-full w-20 h-20 object-cover"
                       />
                       <div className="grid gap-1">
-                          <h3 className="font-semibold">Romero Miguel Angel</h3>
+                          <h3 className="font-semibold">Miguel Angel Romero </h3>
                           <li className="text-gray-500 ">
                           PILOTO de YATES 
                           </li>
                           <li className="text-gray-500 ">
-                          Profesor Clases Prácticas / Teóricas
+                          Navegante oceanico
                           </li>
                       </div>
                     </div>
@@ -285,12 +286,12 @@ export default function Perfeccionamiento() {
                           className="rounded-full w-20 h-20 object-cover"
                       />
                       <div className="grid gap-1">
-                          <h3 className="font-semibold">Caruso Martin</h3>
+                          <h3 className="font-semibold">Martin Caruso </h3>
                           <li className="text-gray-500 ">
                           Patron de Yate a Vela o Motor 
                           </li>
                           <li className="text-gray-500 ">
-                          Profesor Clases Prácticas / Teóricas
+                          Navegante oceanico
                           </li>
                       </div>
                     </div>
