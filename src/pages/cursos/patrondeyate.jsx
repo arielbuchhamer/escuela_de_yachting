@@ -68,7 +68,7 @@ export default function Patrondeyate() {
                   <div className="grid gap-4">
                     <h1 className="text-3xl md:text-5xl font-bold text-gray-600 body-font">Curso de Patron de Yate</h1>
                     <p className="text-xl md:text-2xl font-semibold text-azul-edit tracking-wide">
-                      Inicio: <span className="font-bold">15/04/2026</span>
+                      Inicio: <span className="font-bold">19/05/2026</span>
                     </p>
                     <p className="text-lg md:text-xl text-gray-500 ">
                       Si ya sos timonel y querés avanzar, este es tu próximo paso.
