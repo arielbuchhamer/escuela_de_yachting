@@ -66,12 +66,12 @@ export default function Patrondeyate() {
             <div className="w-full max-w-6xl mx-auto py-12 md:py-20 mt-36">
                 <div className="grid gap-8 md:gap-12">
                   <div className="grid gap-4">
-                    <h1 className="text-3xl md:text-5xl font-bold text-gray-600 body-font">Curso de Patron de Yate</h1>
+                    <h1 className="text-3xl md:text-5xl font-bold text-gray-600 body-font">Curso Superior de Patrón de Yate a Vela / Motor</h1>
                     <p className="text-xl md:text-2xl font-semibold text-azul-edit tracking-wide">
-                      Inicio: <span className="font-bold">19/05/2026</span>
+                      Inicio: <span className="font-bold">27 de Mayo de 2026</span>
                     </p>
                     <p className="text-lg md:text-xl text-gray-500 ">
-                      Si ya sos timonel y querés avanzar, este es tu próximo paso.
+                      Si ya poseés habilitación de Timonel de Yate a Vela o Motor y querés avanzar, este es tu próximo paso.
                     </p>
                   </div>
                   <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
@@ -102,9 +102,9 @@ export default function Patrondeyate() {
                         <div className="grid gap-2">
                           <h2 className="text-2xl md:text-3xl font-bold">Detalles del Curso</h2>
                           <p className="text-gray-700 ">
-                          Los objetivos de este curso son los de ahondar en las artes marineras e incorpora una gran cantidad de conocimientos en las cuatros materias fundamentales, Meteorología, Seguridad, Reglamentación y Navegación, es en esta última en la que más se hace hincapié, sobre todo en el aprendizaje de la Navegación por Estima y la Navegación Costera adquiriendo así los conocimientos teóricos y prácticos para una navegación segura en el ámbito establecido para la categoría patrón de yate para obtener la habilitación correspondiente. (P.N.A.) Además de ser pioneros en incorporar en la práctica del uso de sextante. 
+                          Al programa oficial de la Prefectura Naval Argentina se le incorporan contenidos ampliados que fortalecen la formación del Patrón de Yate. La formación incluye navegación, con énfasis en navegación por estima y navegación costera; meteorología práctica aplicada a la toma de decisiones; reglamentación y seguridad; artes marineras avanzadas; navegación electrónica y uso práctico del sextante.
                           </p>
-                          <p className="text-gray-700 ">REQUISITO: Poseer habilitacion de Timonel de Yate a Vela o Motor</p>
+                          <p className="text-gray-700 ">REQUISITO: Poseer habilitación de Timonel de Yate a Vela o Motor</p>
                         </div>
                         <hr />
                         <div className="grid gap-2">
@@ -112,19 +112,19 @@ export default function Patrondeyate() {
                           <ul className="space-y-2 text-gray-700 ">
                               <li>
                               <CheckIcon className="mr-2 inline-block h-4 w-4 text-primary" />
-                              Dominar el uso de compás de gobierno, GPS, navegacion electronica y otros instrumentos de navegación
+                              Profundizar los conocimientos teóricos y prácticos necesarios para una navegación segura dentro del ámbito correspondiente a la categoría Patrón de Yate
                               </li>
                               <li>
                               <CheckIcon className="mr-2 inline-block h-4 w-4 text-primary" />
-                              Aprender a planificar rutas seguras y eficientes
+                              Desarrollar criterio náutico, autonomía y capacidad de planificación
                               </li>
                               <li>
                               <CheckIcon className="mr-2 inline-block h-4 w-4 text-primary" />
-                              Desarrollar habilidades de toma de decisiones en situaciones de emergencia
+                              Fortalecer la toma de decisiones mediante meteorología práctica, reglamentación, seguridad y artes marineras avanzadas
                               </li>
                               <li>
                               <CheckIcon className="mr-2 inline-block h-4 w-4 text-primary" />
-                              Conocer las técnicas de navegación en diferentes entornos.
+                              Cumplir con los requisitos de la Prefectura Naval Argentina para la categoría correspondiente
                               </li>
                           </ul>
                         </div>
@@ -134,11 +134,11 @@ export default function Patrondeyate() {
                           <ul className="space-y-2 text-gray-700 ">
                               <li>
                               <span className="mr-3">&#9875;</span>
-                              Los Alumnos, docentes, personal administrativo y egresados de la UNIVERSIDAD CATÓLICA DE CÓRDOBA reciben un 15% de descuento sobre las cuotas de los No-Socios
+                              Cupos limitados. La inscripción depende del cupo disponible.
                               </li>
                               <li>
                               <span className="mr-3">&#9875;</span>
-                              Pago total de contado recibe un 10% de descuento
+                              Examen según normativa P.N.A.
                               </li>
                               
                           </ul>
@@ -154,11 +154,11 @@ export default function Patrondeyate() {
                                     <p className="font-medium text-gray-200 uppercase">Socios</p>
 
                                     <h2 className="text-3xl font-bold text-white uppercase ">
-                                      $637.500
+                                      $640.000
                                     </h2>
 
                                     <p className="text-white">------------</p>
-                                    <p className="font-medium text-gray-200">Inscripcion: $237.500 </p>
+                                    <p className="font-medium text-gray-200">Inscripción: $240.000 </p>
                                     <p className="text-white">+</p>
                                     <p className="font-medium text-gray-200">Cuotas: 4 de $100.000 </p>
 
@@ -177,7 +177,7 @@ export default function Patrondeyate() {
                                     </h2>
 
                                     <p className="text-white">------------</p>
-                                    <p className="font-medium text-gray-200">Inscripcion: $250.000 </p>
+                                    <p className="font-medium text-gray-200">Inscripción: $250.000 </p>
                                     <p className="text-white">+</p>
                                     <p className="font-medium text-gray-200">Cuotas: 4 de $125.000 </p>
 
@@ -215,7 +215,7 @@ export default function Patrondeyate() {
                         <div className="grid gap-2">
                           <h2 className="text-2xl md:text-3xl font-bold">Duración</h2>
                           <p className="text-gray-500 ">
-                          5 semanas
+                          5 meses
                           </p>
                         </div>
                         <div className="grid gap-2">
@@ -223,22 +223,22 @@ export default function Patrondeyate() {
                           
                           <p className="text-gray-500 ">
                             <span className="mr-3">&#9875;</span>
-                            Plataforma virtual asincrónica: Usted dispone de todo el material teórico y administra los tiempos de estudio con nuestro asesoramiento y colaboración. 
+                            Clases online en vivo los miércoles.
                           </p>
 
                           <p className="text-gray-500 ">
                             <span className="mr-3">&#9875;</span>
-                            Autoevaluacion automatica de cada materia.
+                            Plataforma asincrónica con material completo.
                           </p>
 
                           <p className="text-gray-500 ">
                             <span className="mr-3">&#9875;</span>
-                            Práctico: una clase quincenal de apoyo interactiva virtual
+                            1 clase presencial mensual.
                           </p>
 
                           <p className="text-gray-500 ">
                             <span className="mr-3">&#9875;</span>
-                             Una clase presencial Práctica de posicionamiento mediante el uso de Compás de Marcaciones,  Sextante y GPS.
+                             Conocimientos extras voluntarios: Primeros Auxilios, Inglés Técnico Náutico y Meteorología Práctica.
                           </p>
                           
                           
@@ -310,7 +310,7 @@ export default function Patrondeyate() {
                     <AccordionItem>
                       <AccordionTrigger className="group cursor-pointer p-5 border border-gray-300 rounded-lg shadow-md hover:shadow-lg transition duration-300 ease-in-out transform hover:-translate-y-1 bg-white w-full">
                         <div className="mb-5 flex items-center justify-between w-full">
-                          <span className="text-lg font-semibold text-gray-700 group-hover:text-blue-600 transition duration-300 ease-in-out">¿Qué se incluye en el curso de Patron de Yate?</span>
+                          <span className="text-lg font-semibold text-gray-700 group-hover:text-blue-600 transition duration-300 ease-in-out">¿Qué se incluye en el Curso Superior de Patrón de Yate?</span>
                           <svg className="w-6 h-6 text-gray-500 group-hover:text-blue-600 transition duration-300 ease-in-out ml-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 9l-7 7-7-7"></path>
                           </svg>
@@ -318,11 +318,11 @@ export default function Patrondeyate() {
                       </AccordionTrigger>
                       <AccordionContent className="p-6 bg-gray-50 border-t border-gray-300 rounded-b-lg shadow-inner">
                         <p className="text-gray-600 leading-relaxed">
-                          El curso de Patron de Yate incluye:
+                          El Curso Superior de Patrón de Yate incluye:
                           <ul className="list-disc pl-6 space-y-2 mt-2">
-                            <li>Libro, material didáctico y seguro personal</li>
-                            <li>Prácticas de campo y simulaciones realistas</li>
-                            <li>Toma de decisiones en situaciones de emergencia</li>
+                            <li>Clases online en vivo, plataforma asincrónica con material completo y 1 clase presencial mensual</li>
+                            <li>Contenidos ampliados de navegación, meteorología práctica, reglamentación, seguridad y artes marineras avanzadas</li>
+                            <li>Uso práctico del sextante y navegación electrónica</li>
                           </ul>
                         </p>
                       </AccordionContent>
@@ -339,7 +339,7 @@ export default function Patrondeyate() {
                       </AccordionTrigger>
                       <AccordionContent className="p-6 bg-gray-50 border-t border-gray-300 rounded-b-lg shadow-inner">
                         <p className="text-gray-600 leading-relaxed">
-                          Este curso está diseñado para personas que posean habilitacion de Timonel de yate a Vela o Motor, con minimo un año de experiencia. Durante el curso, se cubrirán desde conceptos fundamentales hasta técnicas avanzadas, de manera que todos los participantes puedan mejorar sus habilidades.
+                          Este curso está diseñado para personas que posean habilitación de Timonel de Yate a Vela o Motor.
                         </p>
                       </AccordionContent>
                     </AccordionItem>
@@ -355,7 +355,7 @@ export default function Patrondeyate() {
                       </AccordionTrigger>
                       <AccordionContent className="p-6 bg-gray-50 border-t border-gray-300 rounded-b-lg shadow-inner">
                         <p className="text-gray-600 leading-relaxed">
-                          No se requiere equipo o material específico para participar en el curso. Proporcionaremos todos los instrumentos de navegación necesarios durante las sesiones. 
+                          El curso se dicta en la Escuela de Yachting – Club Náutico Córdoba. El examen se realiza según normativa P.N.A.
                         </p>
                       </AccordionContent>
                     </AccordionItem>
