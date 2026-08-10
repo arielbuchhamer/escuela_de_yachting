@@ -68,7 +68,7 @@ export default function Timonelvelamotor() {
                   <div className="grid gap-4">
                     <h1 className="text-3xl md:text-5xl font-bold text-gray-600 body-font">Curso de Timonel Vela y Motor</h1>
                     <p className="text-xl md:text-2xl font-semibold text-azul-edit tracking-wide">
-                       Inicio: <span className="font-bold">06/02/2026</span>
+                       Inicio: <span className="font-bold">04/09/2026</span>
                     </p>
                     <p className="text-lg md:text-xl text-gray-500 ">
                     El Curso de TIMONEL de yates a vela y motor es el ideal para quien desea adquirir o complementar conocimientos náuticos que le permitan obtener una habilitación de gran amplitud, con la posibilidad de despachar embarcaciones deportivas en aguas nacionales e internacionales (Costas y archipiélagos de América, Europa y Polinesia).
@@ -133,15 +133,11 @@ export default function Timonelvelamotor() {
                           <ul className="space-y-2 text-gray-700 ">
                               <li>
                               <span className="mr-3">&#9875;</span>
-                              Los Alumnos, docentes, personal administrativo y egresados de la UNIVERSIDAD CATÓLICA DE CÓRDOBA reciben un 15% de descuento sobre las cuotas de los No-Socios
+                              Los Alumnos, docentes, personal administrativo y egresados de la UNIVERSIDAD CATÓLICA DE CÓRDOBA reciben un 10% de descuento sobre las cuotas de los No-Socios
                               </li>
                               <li>
                               <span className="mr-3">&#9875;</span>
                               Pago total de contado recibe un 10% de descuento
-                              </li>
-                              <li>
-                              <span className="mr-3">&#9875;</span>
-                              Los No-Socios abonaran al Club Náutico Córdoba cuotas como Socios Pasantes durante los meses de asistencia presencial por el uso de las instalaciones durante las clases prácticas.
                               </li>
                               <li>
                               <span className="mr-3">&#9875;</span>
@@ -160,15 +156,16 @@ export default function Timonelvelamotor() {
                                         <p className="font-medium text-gray-200 uppercase">Socios</p>
 
                                         <h2 className="text-3xl font-bold text-white uppercase ">
-                                            $420.000
+                                            $820.000
                                         </h2>
-                                        <p className="text-sm text-gray-200">(3 cuotas de $154.000) </p>
+                                        <p className="text-sm text-gray-200">Total </p>
                                         <p className="text-white">+</p>
-                                        <p className="font-medium text-gray-200">Inscripcion: $192.500 </p>
-                                        <p className="font-medium text-gray-200">total: $654.000 </p>
+                                        <p className="font-medium text-gray-200">Inscripcion: $280.000 </p>
+                                        <p className="font-medium text-gray-200">3 cuotas de $180.000 </p>
+                                        <p className="text-sm text-gray-200">(del 1 al 5 de octubre, noviembre y diciembre) </p>
                                         <Link to="/formulario">
-                                          <button className="w-full px-4 py-2 mt-10 tracking-wide text-blue-500 capitalize transition-colors duration-300 transform bg-white rounded-md hover:bg-gray-100 focus:outline-none focus:bg-gray-100 focus:ring focus:ring-gray-200 focus:ring-opacity-80">
-                                              Inscribirse
+                                          <button className="w-full px-4 py-2 mt-10 tracking-wide text-blue-500 uppercase transition-colors duration-300 transform bg-white rounded-md hover:bg-gray-100 focus:outline-none focus:bg-gray-100 focus:ring focus:ring-gray-200 focus:ring-opacity-80">
+                                              Inscribite aquí
                                           </button>
                                         </Link>
                                         
@@ -179,15 +176,16 @@ export default function Timonelvelamotor() {
                                         <p className="font-medium text-gray-200 uppercase"> NO Socios</p>
 
                                         <h2 className="text-3xl font-bold text-white uppercase ">
-                                            $480.000
+                                            $970.000
                                         </h2>
-                                        <p className="text-sm text-gray-200">(3 cuotas de $176.000) </p>
+                                        <p className="text-sm text-gray-200">Total </p>
                                         <p className="text-white">+</p>
-                                        <p className="font-medium text-gray-200">Inscripcion:$242.000 </p>
-                                        <p className="font-medium text-gray-200">total: $770.000 </p>
+                                        <p className="font-medium text-gray-200">Inscripcion: $280.000 </p>
+                                        <p className="font-medium text-gray-200">3 cuotas de $230.000 </p>
+                                        <p className="text-sm text-gray-200">(del 1 al 5 de octubre, noviembre y diciembre) </p>
                                         <Link to="/formulario">
-                                          <button className="w-full px-4 py-2 mt-10 tracking-wide text-blue-500 capitalize transition-colors duration-300 transform bg-white rounded-md hover:bg-gray-100 focus:outline-none focus:bg-gray-100 focus:ring focus:ring-gray-200 focus:ring-opacity-80">
-                                              Inscribirse
+                                          <button className="w-full px-4 py-2 mt-10 tracking-wide text-blue-500 uppercase transition-colors duration-300 transform bg-white rounded-md hover:bg-gray-100 focus:outline-none focus:bg-gray-100 focus:ring focus:ring-gray-200 focus:ring-opacity-80">
+                                              Inscribite aquí
                                           </button>
                                         </Link>
                                         
